@@ -1,0 +1,21 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Uttera",
+        "description": "Your API key. Get one free at https://app.uttera.ai — no card needed.",
+        "data": {
+          "api_key": "API key",
+          "base_url": "API address"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Uttera rejected that key.",
+      "cannot_connect": "Could not reach Uttera."
+    },
+    "abort": {
+      "already_configured": "Uttera is already set up."
+    }
+  }
+}
