@@ -3,7 +3,7 @@
     "step": {
       "user": {
         "title": "Uttera",
-        "description": "Your API key. Get one free at https://app.uttera.ai — no card needed.",
+        "description": "Your Uttera API key — create a free one in your Uttera account (no card needed).",
         "data": {
           "api_key": "API key",
           "base_url": "API address"
